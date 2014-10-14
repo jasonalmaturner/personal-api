@@ -1,0 +1,24 @@
+{
+  "name": "personal-api",
+  "version": "1.0.0",
+  "description": "personal-api\r ============",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jasonalmaturner/personal-api"
+  },
+  "author": "Jason Turner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonalmaturner/personal-api/issues"
+  },
+  "homepage": "https://github.com/jasonalmaturner/personal-api",
+  "dependencies": {
+    "body-parser": "^1.9.0",
+    "cors": "^2.4.2",
+    "express": "^4.9.7"
+  }
+}
